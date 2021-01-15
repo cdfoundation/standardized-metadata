@@ -1,1 +1,1 @@
-# tandardized-metadata
+# standardized-metadata
